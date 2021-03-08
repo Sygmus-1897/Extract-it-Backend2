@@ -1,0 +1,8 @@
+/images
+/logs
+/__pycache__
+/.idea
+/last_run.txt
+/frontend
+/backend
+/redis-server
